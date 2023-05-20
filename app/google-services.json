@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846263154152",
+    "project_id": "plantemoi",
+    "storage_bucket": "plantemoi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846263154152:android:6126204180e0fc1939a05d",
+        "android_client_info": {
+          "package_name": "fr.greensky.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846263154152-bqgtnlvs6hjfc8ttbnqv3r0qq171c1fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYXx3VcDplI0MD4-enYsWqbRSDaTCccvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846263154152-bqgtnlvs6hjfc8ttbnqv3r0qq171c1fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

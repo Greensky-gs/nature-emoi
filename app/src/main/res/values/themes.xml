@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyApplication" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:spinnerItemStyle">@style/defaultTextStyle</item>
+        <item name="spinnerDropDownItemStyle">@style/defaultTextStyle</item>
+        <item name="background">@color/lime</item>
+    </style>
+
+    <style name="Theme.MyApplication" parent="Base.Theme.MyApplication" />
+    <!-- default title -->
+    <style name="defaultTextStyle">
+        <item name="android:textColor">@color/grey</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:fontFamily">@font/kanit</item>
+    </style>
+    <style name="subtitleStyle" parent="defaultTextStyle">
+        <item name="android:textColor">@color/darkGrey</item>
+    </style>
+    <style name="titleTextStyle" parent="subtitleStyle">
+        <item name="android:textSize">24sp</item>
+    </style>
+</resources>

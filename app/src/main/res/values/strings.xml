@@ -1,0 +1,40 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">Nature Emoi</string>
+
+    <!-- navigation bar -->
+    <string name="home_btn">Accueil</string>
+    <string name="collection_btn">Collection</string>
+    <string name="add_btn">Ajouter</string>
+
+    <!-- Home page -->
+    <string name="home_name">À découvrir</string>
+    <string name="home_last_plants">Dernières plantes </string>
+
+    <!-- Collection page -->
+    <string name="collection_page_name">Ma Collection</string>
+
+    <!-- Register plant page -->
+    <string name="register_plant_name">Ajout d\'une plante</string>
+    <string name="register_load_img">Charger l\'image</string>
+    <string-array name="plant_growing">
+        <item>Croissance : Lente</item>
+        <item>Croissance : Moyenne</item>
+        <item>Croissance : Rapide</item>
+    </string-array>
+    <string-array name="plant_watering">
+        <item>Consommation : Faible</item>
+        <item>Consommation : Moyenne</item>
+        <item>Consommation : Élevée</item>
+    </string-array>
+    <string name="register_plant_button">Confirmer</string>
+
+    <!-- Popup -->
+    <string name="popup_description_title">Description</string>
+    <string name="popup_growing_title">Croissance</string>
+    <string name="popup_watering_title">Consommation Eau</string>
+
+    <!-- Plant utils -->
+    <string name="plant_name">Nom de la plante</string>
+    <string name="plant_description">Description de la plante</string>
+</resources>
